@@ -27,10 +27,10 @@ The space complexity primarily depends on the Trie data structure and the ArrayL
 To run the program, provide the input files `Input_01.txt` and `Input_02.txt`. The program will display the longest compound word and the second longest compound word from each file, along with the time taken to process each file.
 
 
+
 #### Note
 
 The program assumes that the input files contain words listed one per line, and all characters are in lowercase.
 ### Output
-
-![]("C:\Users\samri\Desktop\impledge.jpg")
+![impledge](https://github.com/ysamridhi/Longest_Compound_word/assets/86194637/e3678629-2ca7-4ebd-8318-32176f0ccb18)
 Created by Samridhi Yadav on 20/10/2023.
